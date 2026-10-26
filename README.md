@@ -6,13 +6,14 @@ Bienvenido a mi rincón de código. Estoy en mi primer año de carrera, aprendie
 ---
 
 ### 🚀 Sobre mí
-- 🎓 Actualmente cursando 1º en la **Universidad Complutense de Madrid**.
-- 🛠️ Explorando lenguajes como **C++** y fundamentos de algoritmos.
+- 🎓 Actualmente cursando 2º en la **Universidad Complutense de Madrid**.
+- 🛠️ Explorando lenguajes como **C++** y **Java**.
 - 🎷 Cuando no estoy intentando ganarle la batalla al código, estoy intentando ganarle la batalla a la música
 - 📍 Basado en Madrid, España.
 
 ### 🛠️ Tecnologías en aprendizaje
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
