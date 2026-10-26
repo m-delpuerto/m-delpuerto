@@ -1,7 +1,7 @@
 # ¡Hola! Soy Miguel del Puerto 👋
 
 ### 👨‍💻 Estudiante de Ingeniería del Software @ UCM
-Bienvenido a mi rincón de código. Estoy en mi primer año de carrera, aprendiendo las bases para construir software robusto y eficiente.
+Bienvenido a mi rincón de código. Estoy en mi segundo año de carrera, aprendiendo las bases para construir software robusto y eficiente.
 
 ---
 
